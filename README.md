@@ -187,23 +187,6 @@ I'm currently working on **ArshiMize**, an e-commerce website and one of my curr
 
 ---
 
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&radius=15" width="95%" alt="Contribution Graph"/>
-
-</div>
 
 ---
 
