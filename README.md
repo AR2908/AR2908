@@ -276,6 +276,6 @@ I'm currently working on **ArshiMize**, an e-commerce website and one of my curr
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=120&section=footer"/>
+<img src="marque.svg"/>
 
 </div>
