@@ -1,14 +1,308 @@
-<img src="https://camo.githubusercontent.com/eb9a03df460c356513c94d8e4685f99794ddcf32f62bf4dcdacac40d3c94a50e/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966">
-<h1 align="center">Hi 👋, I'm Arjun Bathole</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<!-- ========================= -->
 
-- 🔭 I’m currently working on E-commerce Site [ArshiMize](arshimize.in)
+<!--        HERO SECTION       -->
 
-- 📫 How to reach me **arjun.bathole.mawada@gmail.com**
+<!-- ========================= -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=220&section=header&text=Arjun%20Bathole&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+
+<h1>Hi 👋, I'm Arjun Bathole</h1>
+
+<h3>
+🚀 Full Stack Developer &nbsp;|&nbsp; 💻 Software Enthusiast &nbsp;|&nbsp; 🇮🇳 India
+</h3>
+
+<p>
+Building web experiences, learning new technologies, and turning ideas into working software.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p>
+<img src="https://komarev.com/ghpvc/?username=ArjunBathole&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+</div>
+
+---
+
+<!-- ========================= -->
+
+<!--       ABOUT ME            -->
+
+<!-- ========================= -->
+
+## 👨‍💻 About Me
+
+I'm **Arjun Bathole**, a passionate **Full Stack Developer from India** who enjoys building web applications and exploring modern technologies.
+
+I love working across the stack — from designing interfaces and writing frontend logic to developing backend services and working with databases.
+
+```text
+💡 Think        → Build        → Test        → Improve
+```
+
+### 🔭 Currently Working On
+
+> 🛒 **ArshiMize** — An E-commerce Website
+
+I'm currently working on improving and developing the **ArshiMize** e-commerce platform.
+
+### 🌱 My Developer Mindset
+
+* 💻 Build practical projects
+* 🧠 Keep learning new technologies
+* 🔧 Improve existing applications
+* 🚀 Turn ideas into real-world solutions
+* 📚 Learn by building
+
+---
+
+<!-- ========================= -->
+
+<!--       TECH STACK           -->
+
+<!-- ========================= -->
+
+# 🛠️ Languages & Technologies
+
+### 👨‍💻 Programming Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,javascript" />
+
+</p>
+
+### 🌐 Frontend Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind" />
+
+</p>
+
+### ⚙️ Backend Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+</p>
+
+### 🗄️ Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,oracle" />
+
+</p>
+
+### ☁️ Cloud & Other Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,firebase" />
+
+</p>
+
+---
+
+<!-- ========================= -->
+
+<!--       TECH MARQUEE         -->
+
+<!-- ========================= -->
+
+## ⚡ Technology Universe
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
+</p>
+
+---
+
+<!-- ========================= -->
+
+<!--       FEATURED PROJECT     -->
+
+<!-- ========================= -->
+
+# 🚀 Featured Project
+
+<div align="center">
+
+### 🛒 ArshiMize
+
+**E-commerce Website**
+
+</div>
+
+ArshiMize is the e-commerce project I'm currently working on.
+
+```text
+Project
+   │
+   ├── 🛍️ E-commerce
+   ├── 💻 Web Development
+   ├── ⚙️ Full Stack Development
+   └── 🚀 Continuous Development
+```
+
+> 🔭 **Status:** Currently working on it.
+
+---
+
+<!-- ========================= -->
+
+<!--       GITHUB STATS         -->
+
+<!-- ========================= -->
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArjunBathole&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArjunBathole&layout=compact&langs_count=8&theme=tokyonight&border_radius=12"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ArjunBathole&theme=tokyonight&hide_border=false&border_radius=12" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArjunBathole&theme=tokyo-night&hide_border=false&radius=12" width="95%" alt="GitHub Activity Graph"/>
+
+</div>
+
+---
+
+<!-- ========================= -->
+
+<!--       CURRENT FOCUS        -->
+
+<!-- ========================= -->
+
+# 🎯 What I'm Focused On
+
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│  💻 Full Stack Development                   │
+│                                              │
+│  🛒 E-commerce Development                   │
+│                                              │
+│  ⚙️ Backend & Database Technologies          │
+│                                              │
+│  🧠 Continuous Learning                      │
+│                                              │
+│  🚀 Building Practical Applications          │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+---
+
+<!-- ========================= -->
+
+<!--       DEVELOPER QUOTE      -->
+
+<!-- ========================= -->
+
+# 💭 Developer Philosophy
+
+<div align="center">
+
+> **"Code. Learn. Build. Improve. Repeat."**
+
+### Every project is another opportunity to learn something new. 🚀
+
+</div>
+
+---
+
+<!-- ========================= -->
+
+<!--        CONNECT             -->
+
+<!-- ========================= -->
+
+# 📫 Let's Connect
+
+<div align="center">
+
+<a href="mailto:arjun.bathole.mawada@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<p align="center">
+📧 <strong>arjun.bathole.mawada@gmail.com</strong>
+</p>
+
+---
+
+<!-- ========================= -->
+
+<!--        FOOTER              -->
+
+<!-- ========================= -->
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you find something interesting here, feel free to explore my repositories.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=120&section=footer"/>
+
+</div>
